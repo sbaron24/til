@@ -10,8 +10,8 @@ In the spirit of starting small and sharing what I learn, here is some basics of
 
 ## Emphasis
 
-\** **bold** \*\*\
-\* *italic\* \*
+\*\* **bold** \*\*\
+\__italic_\_
 
 ## Lists
 
@@ -19,9 +19,9 @@ In the spirit of starting small and sharing what I learn, here is some basics of
 2. ordered
 3. list
 
-- an (-an)
-- unordered (-unordered)
-- list (-list)
+- an (- an)
+- unordered (- unordered)
+- list (- list)
 
 ## Code
 
